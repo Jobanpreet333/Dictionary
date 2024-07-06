@@ -1,0 +1,45 @@
+h1{
+    text-align: center;
+    color: #F28482;
+}
+.container{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    grid-auto-flow: 5px;
+}
+
+#search{
+    border: 2px solid #84A59D;
+    color: #84A59D;
+    height: 30px;
+    font-size: 25px;
+}
+.btn{
+    color: #84A59D;
+    height: 30px;
+    background-color: white;
+    border: 2px solid #84A59D;
+
+}
+
+.facts{
+    text-align: center;
+    color: red;
+    font-size: 20px;
+    margin-top: 30px;
+}
+.noun{
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    margin-top: 30px;
+}
+#syn{
+        text-align: center;
+        color: black;
+        font-size: 20px;
+        margin-top: 30px;
+}
